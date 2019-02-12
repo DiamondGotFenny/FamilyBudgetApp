@@ -1,0 +1,14 @@
+D:\学习资料\Javascript,HTML,CSS\The Complete JavaScript Course 2018-Jonas\practices\CompleteJavascriptPractices\BudgetAppProject\bin\Debug\netcoreapp2.1\BudgetAppProject.deps.json
+D:\学习资料\Javascript,HTML,CSS\The Complete JavaScript Course 2018-Jonas\practices\CompleteJavascriptPractices\BudgetAppProject\bin\Debug\netcoreapp2.1\BudgetAppProject.runtimeconfig.json
+D:\学习资料\Javascript,HTML,CSS\The Complete JavaScript Course 2018-Jonas\practices\CompleteJavascriptPractices\BudgetAppProject\bin\Debug\netcoreapp2.1\BudgetAppProject.runtimeconfig.dev.json
+D:\学习资料\Javascript,HTML,CSS\The Complete JavaScript Course 2018-Jonas\practices\CompleteJavascriptPractices\BudgetAppProject\bin\Debug\netcoreapp2.1\BudgetAppProject.dll
+D:\学习资料\Javascript,HTML,CSS\The Complete JavaScript Course 2018-Jonas\practices\CompleteJavascriptPractices\BudgetAppProject\bin\Debug\netcoreapp2.1\BudgetAppProject.pdb
+D:\学习资料\Javascript,HTML,CSS\The Complete JavaScript Course 2018-Jonas\practices\CompleteJavascriptPractices\BudgetAppProject\obj\Debug\netcoreapp2.1\BudgetAppProject.csproj.CoreCompileInputs.cache
+D:\学习资料\Javascript,HTML,CSS\The Complete JavaScript Course 2018-Jonas\practices\CompleteJavascriptPractices\BudgetAppProject\obj\Debug\netcoreapp2.1\BudgetAppProject.RazorAssemblyInfo.cache
+D:\学习资料\Javascript,HTML,CSS\The Complete JavaScript Course 2018-Jonas\practices\CompleteJavascriptPractices\BudgetAppProject\obj\Debug\netcoreapp2.1\BudgetAppProject.RazorAssemblyInfo.cs
+D:\学习资料\Javascript,HTML,CSS\The Complete JavaScript Course 2018-Jonas\practices\CompleteJavascriptPractices\BudgetAppProject\obj\Debug\netcoreapp2.1\BudgetAppProject.AssemblyInfoInputs.cache
+D:\学习资料\Javascript,HTML,CSS\The Complete JavaScript Course 2018-Jonas\practices\CompleteJavascriptPractices\BudgetAppProject\obj\Debug\netcoreapp2.1\BudgetAppProject.AssemblyInfo.cs
+D:\学习资料\Javascript,HTML,CSS\The Complete JavaScript Course 2018-Jonas\practices\CompleteJavascriptPractices\BudgetAppProject\obj\Debug\netcoreapp2.1\BudgetAppProject.RazorTargetAssemblyInfo.cache
+D:\学习资料\Javascript,HTML,CSS\The Complete JavaScript Course 2018-Jonas\practices\CompleteJavascriptPractices\BudgetAppProject\obj\Debug\netcoreapp2.1\BudgetAppProject.dll
+D:\学习资料\Javascript,HTML,CSS\The Complete JavaScript Course 2018-Jonas\practices\CompleteJavascriptPractices\BudgetAppProject\obj\Debug\netcoreapp2.1\BudgetAppProject.pdb
+D:\学习资料\Javascript,HTML,CSS\The Complete JavaScript Course 2018-Jonas\practices\CompleteJavascriptPractices\BudgetAppProject\obj\Debug\netcoreapp2.1\BudgetAppProject.csprojAssemblyReference.cache
